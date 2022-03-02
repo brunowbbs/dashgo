@@ -110,7 +110,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 <a href="https://https://app.rocketseat.com.br/me/wesley-bruno-barbosa-silva-04826">
- <img style="border-radius: 50%;" src="https://github.com/brunowbbs.png" width="100px;" alt=""/>
+ <img style="border-radius: 50px;" src="https://github.com/brunowbbs.png" width="100px;" alt=""/>
  <br />
  <sub><b>Wesley Bruno</b></sub></a> <a href="https://https://app.rocketseat.com.br/me/wesley-bruno-barbosa-silva-04826" title="Rocketseat">🚀</a>
  <br />
