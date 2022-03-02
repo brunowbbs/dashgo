@@ -9,7 +9,7 @@
   </a>
 
   <a href="https://linkedin.com/in/brunowbbs">
-    <img alt="Feito por Elian" src="https://img.shields.io/badge/feito%20por-Elian%20Becali-%237519C1?style=flat-square&">
+    <img alt="Feito por Wesley Bruno" src="https://img.shields.io/badge/feito%20por-Wesley%20Bruno-%237519C1?style=flat-square&">
   </a>
 
 
@@ -109,10 +109,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
-<a href="https://app.rocketseat.com.br/me/elian-carlos-becali-aguiar-1567032394">
+<a href="https://https://app.rocketseat.com.br/me/wesley-bruno-barbosa-silva-04826">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54561377?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Elian Becali</b></sub></a> <a href="https://app.rocketseat.com.br/me/elian-carlos-becali-aguiar-1567032394" title="Rocketseat">🚀</a>
+ <sub><b>Wesley Bruno</b></sub></a> <a href="https://https://app.rocketseat.com.br/me/wesley-bruno-barbosa-silva-04826" title="Rocketseat">🚀</a>
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunowbbs/)](https://www.linkedin.com/in/brunowbbs/)
