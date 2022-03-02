@@ -103,8 +103,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[React Hook Form](https://react-hook-form.com/)**
 -   **[React Query](https://react-query.tanstack.com/)**
 
-> Veja o arquivo  [package.json](https://github.com/brunowbbs/main/blob/main/package.json)
-
 ---
 
 ## 🦸 Autor
